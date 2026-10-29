@@ -1,6 +1,6 @@
 # Waiting for Signals (site v2)
 
-Static one-page site for *Waiting for Signals*, an independent rider campaign asking CTA and NITA to study interlining the Brown and Orange lines on the west and south sides of the Loop. Served by GitHub Pages at https://waitingforsignals.org (see `CNAME`).
+Static one-page site for *Waiting for Signals*, an independent rider campaign asking CTA to run the Brown and Orange lines straight through the Loop. Served by GitHub Pages at https://waitingforsignals.org (see `CNAME`).
 
 - `index.html`, `style.css`, `404.html`: plain HTML/CSS. No build step, frameworks, or trackers.
 - `route_map.svg`, `before_after.svg`, `og_card.svg`: original graphics, made by `make_graphics.py`. The maps are unofficial and not CTA products.
