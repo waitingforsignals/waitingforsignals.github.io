@@ -69,3 +69,6 @@ footer{background:#0c0a08;color:#cfc6bf;padding:2rem 0;font-size:.95rem}footer a
 }
 @media(min-width:1000px){.cards{grid-template-columns:repeat(3,1fr)}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+.strip-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;border-radius:12px}
+.strip-scroll img{max-width:100%;min-width:720px}
+@media(min-width:800px){.strip-scroll img{min-width:0}}
