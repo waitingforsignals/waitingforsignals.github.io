@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+<rect width="1200" height="630" fill="#16120f"/>
+<rect y="600" width="600" height="30" fill="#62361B"/><rect x="600" y="600" width="600" height="30" fill="#F9461C"/>
+<polyline points="760,40 860,140 860,420 1080,420 1080,580" fill="none" stroke="#62361B" stroke-width="22" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="792,40 884,132 884,396 1104,396 1104,580" fill="none" stroke="#F9461C" stroke-width="22" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="700,180 1080,180 1080,420" fill="none" stroke="#009B3A" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="860" cy="250" r="14" fill="#fff" stroke="#111" stroke-width="5"/><circle cx="1000" cy="420" r="14" fill="#fff" stroke="#111" stroke-width="5"/>
+<text x="70" y="140" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" font-style="normal" fill="#F9461C" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">WAITING FOR SIGNALS</text>
+<text x="70" y="240" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="74" font-weight="800" font-style="normal" fill="#fff" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Brown + Orange.</text>
+<text x="70" y="325" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="74" font-weight="800" font-style="normal" fill="#fff" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Straight through.</text>
+<text x="70" y="410" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="36" font-weight="600" font-style="normal" fill="#e6ddd6" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">One seat, Kimball to Midway.</text>
+<text x="70" y="460" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="36" font-weight="600" font-style="normal" fill="#e6ddd6" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Fewer crossings at Tower 18.</text>
+<text x="70" y="550" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="26" font-weight="700" font-style="normal" fill="#fff" text-anchor="start" stroke="#fff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">waitingforsignals.org · CTA &amp; NITA: study it.</text>
+</svg>
