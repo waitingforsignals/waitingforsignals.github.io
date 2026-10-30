@@ -7,3 +7,8 @@ Static one-page site for *Waiting for Signals*, an independent rider campaign as
 - `og_card.png`: 1200x630 social card, rendered from `og_card.svg`.
 
 Every figure on the page links to its source. Sign-ups go through Tally: https://tally.so/r/5XX7Ro
+
+## Photo credits (v9)
+- images/tower18-junction.jpg: Daniel Schwen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:CTA_loop_junction.jpg (resized)
+- images/wells-bridge-train.jpg: Olga1969, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Train_on_the_bridge.jpg (resized)
+- images/orange-line-midway.jpg: AlphaBeta135, CC BY 4.0, https://commons.wikimedia.org/wiki/File:CTA_Orange_Line_train_at_Midway_station_-_Chicago,_IL_-_July_2024.jpg (resized)

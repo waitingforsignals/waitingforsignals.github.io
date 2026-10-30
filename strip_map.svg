@@ -53,23 +53,18 @@
 <rect x="848.6666666666666" y="214" width="4" height="32" fill="#000"/>
 <text transform="translate(853.6666666666666,208) rotate(-45)" font-size="13" font-weight="bold">Washington/Wells</text>
 <circle cx="850.6666666666666" cy="260" r="5.5" fill="#522398"/>
-<circle cx="850.6666666666666" cy="273" r="5.5" fill="#e27ea6"/>
 <rect x="891.3333333333333" y="214" width="4" height="32" fill="#000"/>
 <text transform="translate(896.3333333333333,208) rotate(-45)" font-size="13" font-weight="bold">Quincy</text>
 <circle cx="893.3333333333333" cy="260" r="5.5" fill="#522398"/>
-<circle cx="893.3333333333333" cy="273" r="5.5" fill="#e27ea6"/>
 <rect x="934.0" y="214" width="4" height="32" fill="#000"/>
 <text transform="translate(939.0,208) rotate(-45)" font-size="13" font-weight="bold">LaSalle/Van Buren</text>
 <circle cx="936.0" cy="260" r="5.5" fill="#522398"/>
-<circle cx="936.0" cy="273" r="5.5" fill="#e27ea6"/>
 <rect x="976.6666666666666" y="214" width="4" height="32" fill="#000"/>
 <text transform="translate(981.6666666666666,208) rotate(-45)" font-size="13" font-weight="bold">Harold Washington Library</text>
 <circle cx="978.6666666666666" cy="260" r="5.5" fill="#522398"/>
-<circle cx="978.6666666666666" cy="273" r="5.5" fill="#e27ea6"/>
 <rect x="1019.3333333333333" y="214" width="4" height="32" fill="#000"/>
 <text transform="translate(1024.3333333333333,208) rotate(-45)" font-size="13" font-weight="bold">Roosevelt</text>
 <circle cx="1021.3333333333333" cy="260" r="5.5" fill="#c60c30"/>
-<circle cx="1021.3333333333333" cy="273" r="5.5" fill="#009b3a"/>
 <rect x="1062.0" y="214" width="4" height="32" fill="#000"/>
 <text transform="translate(1067.0,208) rotate(-45)" font-size="13" font-weight="bold">Halsted</text>
 <rect x="1104.6666666666665" y="214" width="4" height="32" fill="#000"/>

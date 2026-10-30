@@ -72,3 +72,75 @@ footer{background:#0c0a08;color:#cfc6bf;padding:2rem 0;font-size:.95rem}footer a
 .strip-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;border-radius:12px}
 .strip-scroll img{max-width:100%;min-width:720px}
 @media(min-width:800px){.strip-scroll img{min-width:0}}
+
+
+/* v10: v4 black look, less clutter */
+section{padding:4.5rem 0}
+.narrow,.narrow0{max-width:720px;margin-left:auto;margin-right:auto}
+.wrap.narrow{padding:0 1.25rem}
+.hero{padding:3.5rem 0 4rem}
+.hero .wrap{display:block}
+.hero h1{font-size:clamp(2.8rem,10vw,5.6rem)}
+.hero .sub{max-width:36ch}
+#bridge{padding-bottom:2.5rem}
+#bridge p{font-size:1.15rem}
+#bridge .src{font-size:.9rem}
+figure img{border:0;border-radius:6px}
+figcaption{font-size:.85rem}
+.photo{margin:2.25rem 0 0}.photo img{display:block;width:100%;height:auto}
+.photo.wide img{aspect-ratio:16/9;object-fit:cover}
+.credit{display:block;font-size:.75rem;opacity:.85;margin-top:.15rem}.credit a{color:inherit}
+#plan{border-top:1px solid #eee5de}
+.map img{display:block;width:100%;height:auto}
+.strip{margin-top:3rem}
+.big2{list-style:none;padding:0;margin:2rem 0 0;display:grid;gap:2rem}
+.big2 li{border-top:4px solid var(--orange);padding-top:1rem}
+.big2 li:nth-child(2){border-top-color:var(--brown)}
+.big2 b{display:block;font-size:clamp(2.2rem,6vw,3.2rem);line-height:1;font-weight:800;color:var(--ink)}
+.big2 span{display:block;margin-top:.6rem;font-size:1.15rem;color:var(--muted);max-width:42ch}
+.points{list-style:none;padding:0;margin:3rem 0 0;display:grid;gap:1.75rem 3rem}
+.points li{border-top:1px solid #e3d9d1;padding-top:1rem}
+.points h3{margin:0 0 .35rem;font-size:1.1rem}
+.points p{margin:0;color:var(--muted)}
+.dark{background:var(--ink);color:#efe8e2}
+.dark h2{color:#fff}
+.dark .eyebrow{color:var(--orange)}
+.dark a{color:#ffb39f}
+.dark figcaption{color:#b9aea6}
+.dark .lead{color:#fff}
+.diagram{margin:2.5rem 0 0}
+.diagram img{background:#fff;padding:.75rem;border-radius:6px}
+#faq{border-top:1px solid #eee5de}
+details{background:none;border:0;border-bottom:1px solid #e3d9d1;border-radius:0;padding:1.1rem 0;margin:0}
+details:first-of-type{border-top:1px solid #e3d9d1}
+.ask{padding:3.5rem 0}
+.ask h2{margin:0}
+.signup{padding:4.5rem 0}
+@media(min-width:800px){
+ .big2,.points{grid-template-columns:1fr 1fr}
+ .split{grid-template-columns:1fr 1fr;gap:3.5rem;align-items:start}
+}
+/* v10 alignment: one left-aligned column system */
+.wrap.narrow{max-width:1080px}
+.narrow0{max-width:none;margin:0}
+#bridge p,#tower18 p,.signup p{max-width:62ch}
+#faq details{max-width:760px}
+.diagram{max-width:720px}
+.signup{text-align:left}.signup p{margin:0 0 1.5rem}
+.signup a:not(.btn){color:#fff}
+.hero .wrap>div{max-width:none}
+.signup .btn{margin-bottom:1.5rem}
+/* v10b: photo hero + side-by-side rows */
+.hero-photo{position:relative;background:#16120f url(images/wells-bridge-train.jpg) center 60%/cover no-repeat;padding:6rem 0 4.5rem}
+.hero-photo::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(22,18,15,.92) 0%,rgba(22,18,15,.78) 50%,rgba(22,18,15,.45) 100%)}
+.hero-photo .wrap{position:relative}
+.hero-credit{margin:3.5rem 0 0;font-size:.72rem;color:#b9aea6}.hero-credit a{color:#d8cfc8}
+.row{display:grid;gap:2rem;margin-top:2.5rem;align-items:center}
+.row .points{margin:0;grid-template-columns:1fr!important}
+.photo.side{margin:0}.photo.side img{aspect-ratio:4/3;object-fit:cover}
+.row.rev .lead{margin-top:0}
+@media(min-width:800px){.row{grid-template-columns:1fr 1fr;gap:3.5rem}.row.rev>figure{order:-1}}
+@media(min-width:800px){.hero-photo{padding:8rem 0 5rem}}
+
+#bridge p{margin:0 0 .45rem;line-height:1.45}
+#bridge p.src{margin-top:1rem}
